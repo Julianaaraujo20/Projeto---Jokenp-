@@ -8,4 +8,4 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
+![Captura de Tela (10)](https://github.com/Julianaaraujo20/Projeto-Jokenp-/assets/160653647/4be74ff3-2c50-4798-845d-c98da634ebd6)
